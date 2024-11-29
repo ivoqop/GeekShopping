@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{116B844E-47CB-4473-B689-4521F20F5901}|Default">
+  <MonoDevelop.Ide.ItemProperties.Services.GeekShopping.ProductAPI FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GeekShopping" expanded="True">
+            <Node name="FrontEnd" expanded="True">
+              <Node name="GeekShopping.Web" expanded="True" />
+            </Node>
+            <Node name="Services" expanded="True">
+              <Node name="GeekShopping.ProductAPI" expanded="True" selected="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FrontEnd.GeekShopping.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

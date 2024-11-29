@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{547E5060-606F-4DFF-A9E9-A7D5C24D8E89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{924C0C79-A4C0-463E-B362-CE08E7336BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShopping.Web", "GeekShopping.Web\GeekShopping.Web.csproj", "{116B844E-47CB-4473-B689-4521F20F5901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShopping.ProductAPI", "GeekShopping.ProductAPI\GeekShopping.ProductAPI.csproj", "{52920547-035B-4920-AB57-0070E6DBD107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{116B844E-47CB-4473-B689-4521F20F5901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116B844E-47CB-4473-B689-4521F20F5901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116B844E-47CB-4473-B689-4521F20F5901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116B844E-47CB-4473-B689-4521F20F5901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52920547-035B-4920-AB57-0070E6DBD107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52920547-035B-4920-AB57-0070E6DBD107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52920547-035B-4920-AB57-0070E6DBD107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52920547-035B-4920-AB57-0070E6DBD107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E0A6BAF-7A46-4005-A870-DB3EE71CCD63}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{116B844E-47CB-4473-B689-4521F20F5901} = {924C0C79-A4C0-463E-B362-CE08E7336BCD}
+		{52920547-035B-4920-AB57-0070E6DBD107} = {547E5060-606F-4DFF-A9E9-A7D5C24D8E89}
+	EndGlobalSection
+EndGlobal
